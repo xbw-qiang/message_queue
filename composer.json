@@ -1,19 +1,19 @@
 {
-    "name": "jeff/httprequest",
-    "description": "Http Request",
-    "type": "httprequest",
-    "keywords": ["http","request"],
+    "name": "xbw-qiang/message_queue",
+    "description": "php message",
+    "type": "queue",
+    "keywords": ["php","queue"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "xbwQiang",
+            "name": "xbw-qiang",
             "email": "1242550103@qq.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "xbwQiang\\Message_Queue\\": ""
+            "xbw-qiang\\message_queue\\": ""
         }
     }
 }
