@@ -1,40 +1,25 @@
 {
-
-    "name":"xbwQiang/Message_Queue",
-
-    "description":"hp messsage queue wrapper",
-
-    "license":"MIT",
-
-    "keywords": ["message queue"],
-
-    "version":"1.0.0",
-
+    "name": "xbwQiang/Message_Queue",
+    "type": "library",
+    "description": "php message queue",
+    "keywords": ["queue", "php"],
+    "license": "MIT",
     "authors": [
-
         {
-
-            "name":"Message_Queue",
-
-            "email":"1242550103@qq.com"
-
-        }
-
+            "name": "xbwQiang",
+            "email": "1242550103@qq.com",
+            "homepage": "https://github.com/xbwQiang"
+        },
     ],
 
+    
     "require": {
-
-        "php":">=5.3.0"
-
+        "php": ">=5.3.3",
     },
- 
+
     "autoload": {
-
         "psr-0": {
-
-            "xbwQiang\Message_Queue":"src/"
-
+            "Message_Queue": "src/",
         }
-
-    }
+    },
 }
