@@ -1,7 +1,7 @@
 {
     "name": "xbw-qiang/message_queue",
     "description": "php message",
-    "type": "queue",
+    "type": "library",
     "keywords": ["php","queue"],
     "license": "BSD-3-Clause",
     "authors": [
@@ -10,7 +10,6 @@
             "email": "1242550103@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "xbw-qiang\\message_queue\\": ""
