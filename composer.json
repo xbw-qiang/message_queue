@@ -1,25 +1,19 @@
 {
-    "name": "xbw-qiang/message_queue",
-    "type": "library",
-    "description": "php message queue",
-    "keywords": ["queue", "php"],
-    "license": "MIT",
+    "name": "jeff/httprequest",
+    "description": "Http Request",
+    "type": "httprequest",
+    "keywords": ["http","request"],
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "xbwQiang",
-            "email": "1242550103@qq.com",
-            "homepage": "https://github.com/xbwQiang"
+            "email": "1242550103@qq.com"
         }
     ],
-
-    
-    "require": {
-        "php": ">=5.3.3"
-    },
-
+   
     "autoload": {
-        "psr-0": {
-            "Message_Queue": "src/"
+        "psr-4": {
+            "xbwQiang\\Message_Queue\\": ""
         }
     }
 }
