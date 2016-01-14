@@ -1,5 +1,5 @@
 <?php
-namespace Message_Queue;
+namespace xbw\message_queue;
 class HelloWord
 {
 	public static function remind()

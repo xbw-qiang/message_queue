@@ -1,5 +1,5 @@
 {
-    "name": "xbw-qiang/message_queue",
+    "name": "xbw/message_queue",
     "description": "php message",
     "type": "library",
     "keywords": ["php","queue"],
