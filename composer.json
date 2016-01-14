@@ -10,7 +10,7 @@
             "email": "1242550103@qq.com"
         }
     ],
-   
+    "minimum-stability": "master",
     "autoload": {
         "psr-4": {
             "xbwQiang\\Message_Queue\\": ""
