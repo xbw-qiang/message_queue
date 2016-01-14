@@ -2,7 +2,8 @@
     "name": "xbw-qiang/message_queue",
     "description": "php message",
     "type": "library",
-    "keywords": "MIT",
+    "keywords": ["php","queue"],
+    "license": "MIT",
     "authors": [
         {
             "name": "xbw-qiang",
