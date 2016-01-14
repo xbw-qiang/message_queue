@@ -10,7 +10,6 @@
             "email": "1242550103@qq.com"
         }
     ],
-    "version":"2.0.2",
     "autoload": {
         "psr-4": {
             "xbw-qiang\\message_queue\\": ""
