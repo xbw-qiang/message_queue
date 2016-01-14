@@ -2,14 +2,14 @@
     "name": "xbw-qiang/message_queue",
     "description": "php message",
     "type": "library",
-    "keywords": ["php","queue"],
-    "license": "BSD-3-Clause",
+    "keywords": "MIT",
     "authors": [
         {
             "name": "xbw-qiang",
             "email": "1242550103@qq.com"
         }
     ],
+    "version":"2.0.0",
     "autoload": {
         "psr-4": {
             "xbw-qiang\\message_queue\\": ""
