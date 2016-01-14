@@ -14,12 +14,12 @@
 
     
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.3.3"
     },
 
     "autoload": {
         "psr-0": {
-            "Message_Queue": "src/",
+            "Message_Queue": "src/"
         }
-    },
+    }
 }
